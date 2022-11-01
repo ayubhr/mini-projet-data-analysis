@@ -10,6 +10,7 @@
 
 ## Overview 
 
+<img alt="premier league logo" src="img/pl.png" width="220px">
 
 * #### Theme : 
   * ##### Soccer Data :soccer:
