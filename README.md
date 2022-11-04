@@ -22,15 +22,9 @@
 
   * > analye and explore soccer data to get the most of statistical analyses
 
-## Scenarios
-
-  1. First item
-  2. Second item
-  3. Third item
-      - Indented item
-      - Indented item
-  4. Fourth item
-
+    1. Explore
+    2. Analyse
+    3. Visualize   
 
 ## Dataset
 
@@ -78,6 +72,16 @@
 
    * ###### Soccer data  :  [soccer_data.csv](data/soccer_data.csv)
    * ###### Soccer data variables  :  [soccer_data_vars.csv](data/soccer_data_vars.csv)
+
+
+## Conclusion :  
+
+  > As you can see we get to final standing from all premier league matches for saison 2018-2019
+
+  Flashscore standing             |  Parsed standing
+:-------------------------:|:-------------------------:
+<img src="img/../img/standing.png" height="440px" width="420px">  |  <img src="img/../img/standing1.png" height="440px" width="420px">
+
 
 
 ## Notes 
